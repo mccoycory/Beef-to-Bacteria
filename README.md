@@ -16,4 +16,4 @@ From the bare bones dashboard, we added 3 styles to it. The first was an image b
 
 # Summary 
 
-This project was a very useful project to learn Java script and the creation of an interactive dashboard. 
+This project was a very useful project to learn Java script and the creation of an interactive dashboard. The code for this dashboard can be found in the Beef to Bacteria folder. The index.html and charts.js contain all the code. Additionally, the samples.js folder is the raw data given to us from our friends. 
